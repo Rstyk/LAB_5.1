@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  labb 5.1.cpp
+C:\Users\ACER\source\repos\lab 5.1\labb 5.1\labb 5.1.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\ACER\source\repos\lab 5.1\x64\Debug\labb 5.1.lib and object C:\Users\ACER\source\repos\lab 5.1\x64\Debug\labb 5.1.exp
+  labb 5.1.vcxproj -> C:\Users\ACER\source\repos\lab 5.1\x64\Debug\labb 5.1.dll
